@@ -22,3 +22,6 @@ background-color:#28A745 ;
 .imagen_footer{
   width: 300px;
 }
+.inicio.{
+  justify-content: flex-start;
+}
