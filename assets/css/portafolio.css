@@ -1,0 +1,9 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-image:url(../img/espacio.jpg) ;
+background-size: 100%;
+}
+
+.navbar{
+  background-color:#126eb5 ;
+}
